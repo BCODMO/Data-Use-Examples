@@ -9,6 +9,7 @@ The following lessons were created by BCO-DMO data managers and use examples of 
 ## Reusing Open Data with ERDDAP and Python
 
 https://k-rns.github.io/workshop_data_reuse/
+
 Citation: Karen Soenen (2021, November 12). Reusing Open Data with ERDDAP and Python. Zenodo. https://doi.org/10.5281/zenodo.5684719
 
 * These lessons were constructed using examples of BCO-DMO ERDDAP.
