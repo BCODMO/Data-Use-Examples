@@ -4,7 +4,7 @@ This repository accumulates BCO-DMO data usage examples.
 
 # Notebooks
 
-The [notebooks](notebooks) folder contains standalone notebooks that provide examples of how to use BCO-DMO data in various ways. Many include a "Colab" button that you can use to launch and run the notebook in Google Colab.  Currently they are written in python but we plan to add examples in other languages.
+The [notebooks](notebooks) folder contains standalone notebooks that provide examples of how to use BCO-DMO data in various ways. Many include a "Launch in Colab" button that you can use to launch and run the notebook in Google Colab.  Currently they are written in python but we plan to add examples in other languages.
 
 # Lessons
 
